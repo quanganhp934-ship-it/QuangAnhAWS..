@@ -16,7 +16,7 @@ aliases:
 ### Event Overview
 *   **Event Title**: FCAJ Community Day
 *   **Date**: June 27, 2026
-*   **Location**: 26th Floor, Bitexco Financial Tower, 02 Hai Trieu, Saigon Ward, Ho Chi Minh City
+*   **Location**: Grand Terra Tower, 36 Cát Linh, Đống Đa, Hà Nội (AWS Vietnam Office)
 *   **Organizer**: AWS Study Group in collaboration with FCAJ Community
 *   **Role**: Participant
 
