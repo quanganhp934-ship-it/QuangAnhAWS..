@@ -24,7 +24,7 @@ During my internship, I participated in events that provided valuable insights i
 
 &emsp;**Date:** June 27, 2026
 
-&emsp;**Location:** 26th Floor, Bitexco Financial Tower, 02 Hai Trieu, Saigon Ward, Ho Chi Minh City
+&emsp;**Location:** 7th Floor, Grand Terra Tower, 36 Cát Linh, Đống Đa, Hà Nội
 
 &emsp;**Organizer:** AWS Study Group in collaboration with FCAJ Community
 
