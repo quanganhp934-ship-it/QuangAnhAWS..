@@ -11,7 +11,7 @@ During my internship, I participated in events that provided valuable insights i
 ### [Event 1](4.1-event1/)
 &emsp;**Event Title:** FCAJ Community
 
-&emsp;**Date:** August 22, 2026
+&emsp;**Date:** August 15, 2026
 
 &emsp;**Location:** Grand Terra Tower, 36 Cát Linh, Đống Đa, Hà Nội (AWS Vietnam Office)
 
