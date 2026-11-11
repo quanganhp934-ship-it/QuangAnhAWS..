@@ -16,7 +16,7 @@ aliases:
 ### Thông tin chung về sự kiện
 *   **Tên Sự Kiện**: FCAJ Community Day
 *   **Thời gian tổ chức**: 27-06-2026
-*   **Địa điểm tổ chức**: Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
+*   **Địa điểm tổ chức**: Grand Terra Tower, 36 Cát Linh, Đống Đa, Hà Nội (AWS Vietnam Office)
 *   **Đơn vị tổ chức**: AWS Study Group phối hợp cùng cộng đồng FCAJ
 *   **Vai trò tham gia**: Người tham dự
 
