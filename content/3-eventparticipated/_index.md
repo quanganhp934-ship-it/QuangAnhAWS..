@@ -13,7 +13,7 @@ During my internship, I participated in events that provided valuable insights i
 
 &emsp;**Date:** August 22, 2026
 
-&emsp;**Location:** Bitexco Financial Tower (AWS Vietnam Office)
+&emsp;**Location:** Grand Terra Tower, 36 Cát Linh, Đống Đa, Hà Nội (AWS Vietnam Office)
 
 &emsp;**Organizer:** AWS Study Group in collaboration with FCAJ Community
 
