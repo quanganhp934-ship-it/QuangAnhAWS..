@@ -11,11 +11,11 @@ During my internship, I participated in events that provided valuable insights i
 ### [Event 1](4.1-event1/)
 &emsp;**Event Title:** FCAJ Community
 
-&emsp;**Date:** Academic Conference (Co-organized with HUTECH University and Swinburne University of Technology)
+&emsp;**Date:** August 22, 2026
 
 &emsp;**Location:** Bitexco Financial Tower (AWS Vietnam Office)
 
-&emsp;**Organizer:** AWS G3 Team in collaboration with First Cloud Journey Community
+&emsp;**Organizer:** AWS Study Group in collaboration with FCAJ Community
 
 &emsp;**Role:** Participant
 
