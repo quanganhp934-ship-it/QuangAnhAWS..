@@ -73,7 +73,7 @@ aliases:
 ---
 
 ### Workplace Application
-*   **Current Project Application**: Dockerize the AI Resume Matching application to synchronize local developer environments with EC2 deployments. Configure AWS WAF rules to protect the Load Balancer against SQL injection and XSS threats.
+*   **Current Project Application**: Make the most of LinkedIn to build your personal brand.
 *   **Next Technologies to Test**: Integrate Amazon Bedrock API for CV parsing and automated interview questions generation on Resume Fit.
 *   **Workflow Improvement**: Implement real-time network threat monitoring dashboards.
 
