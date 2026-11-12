@@ -64,7 +64,7 @@ aliases:
 
 #### 2. Practical Expertise
 *   Understood how to handle imbalanced datasets when training ML classifiers.
-*   Learned basic Docker CLI syntax and real-time WebSockets integration on serverless AWS architectures.
+*   Master cloud concepts and build a foundation for your own journey.
 
 #### 3. Best Practices in Operations
 *   **Golden Rule**: Never patch or test system configurations directly on the Production environment.
