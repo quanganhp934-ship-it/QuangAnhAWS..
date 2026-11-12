@@ -72,7 +72,7 @@ aliases:
 ---
 
 ### Ứng Dụng Vào Công Việc
-*   **Áp dụng cho dự án hiện tại**: Triển khai Docker hóa toàn bộ source code của ứng dụng AI Resume Matching để đồng bộ hóa môi trường local của nhóm với môi trường chạy trên EC2. Thiết lập AWS WAF bảo vệ cổng Load Balancer khỏi các tấn công web phổ biến như SQL Injection hay Cross-Site Scripting (XSS).
+*   **Áp dụng cho dự án hiện tại**: Sử dụng LinkedIn một cách tối ưu nhất,tạo dựng thương hiệu cá nhân.
 *   **Công nghệ thử nghiệm tiếp theo**: Thử nghiệm tích hợp Amazon Bedrock để tăng cường độ chính xác cho tính năng phân tích CV và sinh câu hỏi phỏng vấn của Resume Fit.
 *   **Cải thiện quy trình làm việc**: Xây dựng Dashboard giám sát thời gian thực giúp tăng cường khả năng hiển thị mối đe dọa (threat visibility) cho hệ thống mạng.
 
