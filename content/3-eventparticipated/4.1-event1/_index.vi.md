@@ -63,7 +63,7 @@ aliases:
 
 #### 2. Kiến thức thực tiễn
 *   Hiểu cách xử lý vấn đề mất cân bằng dữ liệu (imbalanced data) khi huấn luyện mô hình ML.
-*   Nắm vững các lệnh Docker CLI cơ bản và cơ chế giao tiếp thời gian thực WebSockets trên hạ tầng AWS Serverless.
+*   Nắm vững các kiến thức về cloud và xây dựng nền tảng cho hành trình bản thân .
 
 #### 3. Best practices khi vận hành
 *   **Nguyên tắc vận hành**: Tuyệt đối không thử nghiệm (test) cấu hình trực tiếp trên môi trường Production để bảo toàn độ sẵn sàng cao của hệ thống.
