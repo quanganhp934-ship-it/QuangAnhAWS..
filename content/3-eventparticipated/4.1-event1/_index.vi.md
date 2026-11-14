@@ -79,7 +79,7 @@ aliases:
 ---
 
 ### Trải Nghiệm Trong Sự Kiện
-*   **Thực hành sinh động**: Xem trực tiếp demo hệ thống NIDS phát hiện tấn công, thao tác chạy container Docker và kết nối thời gian thực giữa hai client game Godot qua Cloud.
+*   **Thực hành sinh động**: Trực tiếp tạo trang LinkedIn của riêng cá nhân, xây dựng thương hiệu của bản thân.
 *   **Kết nối cộng đồng**: Trao đổi trực tiếp và kết nối LinkedIn với các diễn giả có kinh nghiệm làm việc tại các tập đoàn lớn (Endava, Central Retail).
 *   **Ấn tượng nhất**: Sự kết hợp hoàn hảo giữa các dịch vụ Cloud AWS và công nghệ AI/ML để giải quyết trực tiếp các thách thức thực tế về bảo mật và vận hành hệ thống.
 
