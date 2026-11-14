@@ -21,7 +21,7 @@ Below is my detailed worklog across the 12 weeks of the First Cloud AI Journey i
 
 **Week 6:** [Learn about AWS Lambda and Serverless](1.6-week6/)
 
-**Week 7:** [Learn about AWS CloudWatch and CloudTrail](1.7-week7/)
+**Week 7:** [Provide guidance and support for integrating Cloud/AI knowledge into real-world projects.](1.7-week7/)
 
 **Week 8:** [Learn about Elastic Load Balancer (ELB) and Auto Scaling](1.8-week8/)
 
