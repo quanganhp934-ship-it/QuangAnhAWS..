@@ -58,7 +58,7 @@ aliases:
 
 ### Key Learnings
 
-#### 1. Technical Mindset & Methodology
+#### 1. Personal brand
 *   **LinkedIn**: Make the most of LinkedIn to build your personal brand.
 *   **Data Security**: Raw data preparation determines ML accuracy and detection performance.
 
