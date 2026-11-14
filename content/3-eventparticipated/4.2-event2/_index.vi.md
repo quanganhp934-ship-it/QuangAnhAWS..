@@ -1,6 +1,6 @@
 ---
 title: "Event 2"
-date: 2026-07-21
+date: 2026-09-05
 weight: 2
 chapter: false
 pre: " <b> 4.2. </b> "
@@ -15,7 +15,7 @@ aliases:
 
 ### Thông tin chung về sự kiện
 *   **Tên Sự Kiện**: FCAJ Community Day
-*   **Thời gian tổ chức**: 27-06-2026
+*   **Thời gian tổ chức**: 05-9-2026
 *   **Địa điểm tổ chức**: Grand Terra Tower, 36 Cát Linh, Đống Đa, Hà Nội (AWS Vietnam Office)
 *   **Đơn vị tổ chức**: AWS Study Group phối hợp cùng cộng đồng FCAJ
 *   **Vai trò tham gia**: Người tham dự
@@ -23,7 +23,7 @@ aliases:
 ---
 
 ### Mục đích của sự kiện
-*   **Mục tiêu của chương trình**: Giới thiệu xu hướng ứng dụng AI Agent (Agentic AI) vào quá trình quản trị và vận hành hạ tầng Cloud nhằm tự động hóa các tác vụ, nâng cao hiệu quả quản lý hệ thống và tối ưu chi phí vận hành.
+*   **Mục tiêu của chương trình**: Giới thiệu về CloudThinker.
 *   **Nội dung chính muốn truyền tải**: Giới thiệu khái niệm AgenticOps, vai trò của AI Agent trong Cloud Operations, cách AI hỗ trợ giám sát hệ thống, phân tích log, phát hiện sự cố, tối ưu tài nguyên và tự động hóa quy trình vận hành trên nền tảng Cloud.
 *   **Giá trị dành cho người tham dự**: Giúp người tham dự hiểu được xu hướng kết hợp AI với Cloud, nắm được các ứng dụng thực tế của AI trong vận hành hệ thống và định hướng phát triển các kỹ năng cần thiết trong lĩnh vực Cloud và DevOps.
 
