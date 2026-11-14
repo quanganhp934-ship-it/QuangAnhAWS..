@@ -57,13 +57,13 @@ aliases:
 
 ### Những Gì Học Được
 
-#### 1. Tư duy và phương pháp kỹ thuật
+#### 1. Thương hiệu cá nhân 
 *   **LinkedIn**: Tận dụng LinkedIn một cách tối ưu nhất để xây dựng thương hiệu cá nhân.
 *   **Bảo mật dữ liệu**: Chất lượng dữ liệu đầu vào quyết định trực tiếp đến độ chính xác và hiệu suất của các mô hình Machine Learning phát hiện mã độc.
 
 #### 2. Kiến thức thực tiễn
-*   Hiểu cách xử lý vấn đề mất cân bằng dữ liệu (imbalanced data) khi huấn luyện mô hình ML.
-*   Nắm vững các kiến thức về cloud và xây dựng nền tảng cho hành trình bản thân .
+*   Hiểu được tầm quan trọng và tự tạo dựng lên thương hiệu của bản thân. 
+*   Nắm vững các kiến thức về cloud và xây dựng nền tảng cho hành trình của bản thân .
 
 #### 3. Best practices khi vận hành
 *   **Nguyên tắc vận hành**: Tuyệt đối không thử nghiệm (test) cấu hình trực tiếp trên môi trường Production để bảo toàn độ sẵn sàng cao của hệ thống.
