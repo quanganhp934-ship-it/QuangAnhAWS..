@@ -17,7 +17,7 @@ Below is my detailed worklog across the 12 weeks of the First Cloud AI Journey i
 
 **Week 4:** [Exploring Cloud, AI, AI Agents, and Agentic Operations](1.4-week4/)
 
-**Week 5:** [Learn about AWS RDS and DynamoDB](1.5-week5/)
+**Week 5:** [Keynote, practice, and connect with the community.](1.5-week5/)
 
 **Week 6:** [Learn about AWS Lambda and Serverless](1.6-week6/)
 
