@@ -66,8 +66,8 @@ Recognized that AI serves not only as a content creation tool but also as a smar
 
 ### Event Impressions & Photos
 
-![AgenticOps presentation slide](/images/4-eventparticipated/event2/slide_agenticops.jpg?v=2)
+![AgenticOps presentation slide](/images/4-eventparticipated/event2/slide.jpg?v=2)
 
-![Speaker presentation at FCAJ Community Day](/images/4-eventparticipated/event2/event_hall_presentation.jpg?v=2)
+![Speaker presentation at FCAJ Community Day](/images/4-eventparticipated/event2/eventhall.jpg?v=2)
 
-![Group photo of all FCAJ Community Day participants](/images/4-eventparticipated/event2/group_photo_fcaj.png?v=2)
+![Group photo of all FCAJ Community Day participants](/images/4-eventparticipated/event2/group.jpg?v=2)
