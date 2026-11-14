@@ -22,7 +22,7 @@ Trong quá trình thực tập, em đã tham gia các sự kiện với mỗi s�
 ### [Event 2](4.2-event2/)
 &emsp;**Tên sự kiện:** FCAJ Community Day
 
-&emsp;**Thời gian:** 27-06-2026
+&emsp;**Thời gian:** 05-09-2026
 
 &emsp;**Địa điểm:**  Tầng 7 Grand Terra Tower, 36 Cát Linh, Đống Đa, Hà Nội
 
