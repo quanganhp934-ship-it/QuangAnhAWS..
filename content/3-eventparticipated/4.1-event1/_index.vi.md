@@ -72,7 +72,7 @@ aliases:
 ---
 
 ### Ứng Dụng Vào Công Việc
-*   **Áp dụng cho dự án hiện tại**: Sử dụng LinkedIn một cách tối ưu nhất,tạo dựng thương hiệu cá nhân.
+*   **Áp dụng cho dự án hiện tại**: Sử dụng LinkedIn một cách tối ưu nhất, tạo dựng thương hiệu cá nhân.
 *   **Công nghệ thử nghiệm tiếp theo**: Thử nghiệm tích hợp Amazon Bedrock để tăng cường độ chính xác cho tính năng phân tích CV và sinh câu hỏi phỏng vấn của Resume Fit.
 *   **Cải thiện quy trình làm việc**: Ứng dụng hạ tầng phù hợp cho từng bài toán.
 ---
