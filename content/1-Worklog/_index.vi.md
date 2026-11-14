@@ -17,11 +17,11 @@ Dưới đây là nhật ký công việc chi tiết của tôi qua 12 tuần th
 
 **Tuần 4:** [Tìm hiểu Cloud, AI, AI Agent và Agentic Operations](1.4-week4/)
 
-**Tuần 5:** [Tìm hiểu AWS RDS và DynamoDB](1.5-week5/)
+**Tuần 5:** [Keynote, practice và được kết nối cùng cộng đồng.](1.5-week5/)
 
 **Tuần 6:** [Tìm hiểu AWS Lambda và Serverless](1.6-week6/)
 
-**Tuần 7:** [Tìm hiểu AWS CloudWatch và CloudTrail](1.7-week7/)
+**Tuần 7:** [Trao đổi, hỗ trợ đưa kiến thức Cloud / AI vào project thực tế.](1.7-week7/)
 
 **Tuần 8:** [Tìm hiểu Elastic Load Balancer (ELB) và Auto Scaling](1.8-week8/)
 
