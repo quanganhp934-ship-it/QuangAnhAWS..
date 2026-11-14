@@ -19,7 +19,6 @@ pre: " <b> 1.6. </b> "
 | 5 | Kiểm tra hoạt động hệ thống và xem giám sát log bằng CloudWatch | 05/06/2026 | 05/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Kết quả đạt được tuần 6:
-* Hiểu cơ chế hoạt động, thanh toán và lợi ích của mô hình Serverless trên AWS.
-* Phát triển thành công mã nguồn Python chạy trực tiếp trên Lambda không cần máy chủ.
-* Cấu hình thành công trigger từ S3 và tạo API endpoints để kích hoạt Lambda qua HTTP.
-* Thành thạo kỹ năng tìm lỗi bằng cách tra cứu logs trên AWS CloudWatch.
+* Nắm vững kiến thức Cloud & AI Agent,có thêm những kĩ năng cần thiết cho hành trình PROVE IT phía trước.
+* Được kết nối,gặp gỡ với teammate mới và bắt đầu challenge.
+* Keynote, practice và được kết nối cùng cộng đồng.
