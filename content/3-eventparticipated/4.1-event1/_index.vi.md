@@ -80,13 +80,13 @@ aliases:
 
 ### Trải Nghiệm Trong Sự Kiện
 *   **Thực hành sinh động**: Trực tiếp tạo trang LinkedIn của riêng cá nhân, xây dựng thương hiệu của bản thân.
-*   **Kết nối cộng đồng**: Trao đổi trực tiếp và kết nối LinkedIn với các diễn giả có kinh nghiệm làm việc tại các tập đoàn lớn (Endava, Central Retail).
+*   **Kết nối cộng đồng**: Trao đổi trực tiếp và kết nối LinkedIn với các diễn giả có kinh nghiệm làm việc tại các tập đoàn lớn (Thành Công Group).
 *   **Ấn tượng nhất**: Sự kết hợp hoàn hảo giữa các dịch vụ Cloud AWS và công nghệ AI/ML để giải quyết trực tiếp các thách thức thực tế về bảo mật và vận hành hệ thống.
 
 ---
 
 ### Bài Học Rút Ra
-*   **Tầm quan trọng của ML trong bảo mật**: Việc bảo vệ hệ thống chỉ dựa vào chữ ký tĩnh (signature-based) là không đủ trước các mối đe dọa Zero-day; cần tích hợp ML để phát hiện hành vi bất thường.
+*   **Tầm quan trọng của LinkedIn trong việc tạo dựng thương hiệu**: Việc bảo vệ hệ thống chỉ dựa vào chữ ký tĩnh (signature-based) là không đủ trước các mối đe dọa Zero-day; cần tích hợp ML để phát hiện hành vi bất thường.
 *   **Thực hành là chìa khóa**: Điểm xuất phát không quan trọng, quan trọng là sự kiên trì thực hành lab và xây dựng các dự án thực tế thay vì chỉ tập trung học lý thuyết để lấy chứng chỉ.
 *   **Định hướng nghề nghiệp**: Tập trung làm chủ 1-2 kỹ năng cốt lõi trước khi mở rộng, xây dựng Portfolio cá nhân vững chắc thông qua các dự án thực tiễn đã chạy thành công.
 
