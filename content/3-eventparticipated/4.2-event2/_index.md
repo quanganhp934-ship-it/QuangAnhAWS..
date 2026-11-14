@@ -1,6 +1,6 @@
 ---
 title: "Event 2"
-date: 2026-07-21
+date: 2026-09-05
 weight: 2
 chapter: false
 pre: " <b> 4.2. </b> "
@@ -15,7 +15,7 @@ aliases:
 
 ### Event Overview
 *   **Event Title**: FCAJ Community Day
-*   **Date**: June 27, 2026
+*   **Date**: June 05, 2026
 *   **Location**: Grand Terra Tower, 36 Cát Linh, Đống Đa, Hà Nội (AWS Vietnam Office)
 *   **Organizer**: AWS Study Group in collaboration with FCAJ Community
 *   **Role**: Participant
