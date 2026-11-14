@@ -9,7 +9,7 @@ pre: " <b> 4. </b> "
 During my internship, I participated in events that provided valuable insights into modern cloud solutions and artificial intelligence:
 
 ### [Event 1](4.1-event1/)
-&emsp;**Event Title:** FCAJ Community
+&emsp;**Event Title:** FCAJ Community Day
 
 &emsp;**Date:** August 15, 2026
 
