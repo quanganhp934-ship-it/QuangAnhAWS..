@@ -22,7 +22,7 @@ During my internship, I participated in events that provided valuable insights i
 ### [Event 2](4.2-event2/)
 &emsp;**Event Title:** FCAJ Community Day
 
-&emsp;**Date:** June 27, 2026
+&emsp;**Date:** June 05, 2026
 
 &emsp;**Location:** 7th Floor, Grand Terra Tower, 36 Cát Linh, Đống Đa, Hà Nội
 
