@@ -9,7 +9,7 @@ pre: " <b> 4. </b> "
 Trong quá trình thực tập, em đã tham gia các sự kiện với mỗi sự kiện là một trải nghiệm đáng nhớ với những kiến thức mới, hay và bổ ích, cùng với đó là những khoảnh khắc rất tuyệt vời.
 
 ### [Event 1](4.1-event1/)
-&emsp;**Tên sự kiện:** FCAJ Community
+&emsp;**Tên sự kiện:** FCAJ Community Day
 
 &emsp;**Thời gian:** 15-08-2026
 
