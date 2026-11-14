@@ -59,7 +59,7 @@ aliases:
 ### Key Learnings
 
 #### 1. Technical Mindset & Methodology
-*   **Cloud Mindset**: Cloud is not just renting compute; it's designing automated, horizontally scalable systems backed by pay-as-you-go financial models.
+*   **LinkedIn**: Make the most of LinkedIn to build your personal brand.
 *   **Data Security**: Raw data preparation determines ML accuracy and detection performance.
 
 #### 2. Practical Expertise
