@@ -74,19 +74,18 @@ aliases:
 ### Ứng Dụng Vào Công Việc
 *   **Áp dụng cho dự án hiện tại**: Sử dụng LinkedIn một cách tối ưu nhất,tạo dựng thương hiệu cá nhân.
 *   **Công nghệ thử nghiệm tiếp theo**: Thử nghiệm tích hợp Amazon Bedrock để tăng cường độ chính xác cho tính năng phân tích CV và sinh câu hỏi phỏng vấn của Resume Fit.
-*   **Cải thiện quy trình làm việc**: Xây dựng Dashboard giám sát thời gian thực giúp tăng cường khả năng hiển thị mối đe dọa (threat visibility) cho hệ thống mạng.
-
+*   **Cải thiện quy trình làm việc**: Ứng dụng hạ tầng phù hợp cho từng bài toán.
 ---
 
 ### Trải Nghiệm Trong Sự Kiện
 *   **Thực hành sinh động**: Trực tiếp tạo trang LinkedIn của riêng cá nhân, xây dựng thương hiệu của bản thân.
-*   **Kết nối cộng đồng**: Trao đổi trực tiếp và kết nối LinkedIn với các diễn giả có kinh nghiệm làm việc tại các tập đoàn lớn (Thành Công Group).
+*   **Kết nối cộng đồng**: Trao đổi trực tiếp và kết nối LinkedIn với các diễn giả có kinh nghiệm làm việc tại các tập đoàn lớn (Thành Công Group,...).
 *   **Ấn tượng nhất**: Sự kết hợp hoàn hảo giữa các dịch vụ Cloud AWS và công nghệ AI/ML để giải quyết trực tiếp các thách thức thực tế về bảo mật và vận hành hệ thống.
 
 ---
 
 ### Bài Học Rút Ra
-*   **Tầm quan trọng của LinkedIn trong việc tạo dựng thương hiệu**: Việc bảo vệ hệ thống chỉ dựa vào chữ ký tĩnh (signature-based) là không đủ trước các mối đe dọa Zero-day; cần tích hợp ML để phát hiện hành vi bất thường.
+*   **Tầm quan trọng của LinkedIn trong việc tạo dựng thương hiệu**: Việc tạo dựng thương hiệu dựa vào LinkedIn giúp bản thân chủ động giới thiệu chuyên môn, các kỹ năng cốt lõi, cũng như những dự án thực tế mà bản thân đã tham gia.
 *   **Thực hành là chìa khóa**: Điểm xuất phát không quan trọng, quan trọng là sự kiên trì thực hành lab và xây dựng các dự án thực tế thay vì chỉ tập trung học lý thuyết để lấy chứng chỉ.
 *   **Định hướng nghề nghiệp**: Tập trung làm chủ 1-2 kỹ năng cốt lõi trước khi mở rộng, xây dựng Portfolio cá nhân vững chắc thông qua các dự án thực tiễn đã chạy thành công.
 
