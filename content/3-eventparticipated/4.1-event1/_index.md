@@ -81,10 +81,9 @@ aliases:
 
 ### Event Impressions & Photos
 
-![Machine Learning (ML) Cyber Attack Detection by Le Hoang Gia Dai](/images/4-eventparticipated/event1/waf_ml_intrusion_detection.png?v=2)
+![Personal Branding with LinkedIn by Phung Hai Long](/images/4-eventparticipated/event1/e1e1c6f0-53ed-4087-9599-ffd28b0407bd.webp?v=2)
 
-![Docker Containerization by Bao Huynh](/images/4-eventparticipated/event1/docker_containerization.png?v=2)
+![The Cloud World by Phuong Nguyen](/images/4-eventparticipated/event1/97142992-f1ac-4a43-9b8a-f396f3e1a623.webp?v=2)
 
-![Multiplayer Godot WebSockets by Nguyen Quoc Bao](/images/4-eventparticipated/event1/multiplayer_websockets_godot.png?v=2)
+![Suitable infrastructure by Pham Minh Quang](/images/4-eventparticipated/event1/69d12d77-b3bc-4ad4-82fa-2da03e2aefdf.webp?v=2)
 
-![GraphRAG with Amazon Bedrock by Viet Phat](/images/4-eventparticipated/event1/graphrag_amazon_bedrock.png?v=2)
