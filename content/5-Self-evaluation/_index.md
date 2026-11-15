@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-During my internship at **Amazon Web Services Viet Nam Company Limited (AWS Viet Nam)** from **08/08/2026** to **08/11/2026**, I had the opportunity to learn, practice, and apply my Computer Networks and Data Communications academic knowledge from Vietnam National University of Agriculture (VNUA) to a real-world cloud computing environment.
+During my internship at **Amazon Web Services Viet Nam Company Limited (AWS Viet Nam)** from **08/08/2026** to **14/11/2026**, I had the opportunity to learn, practice, and apply my Computer Networks and Data Communications academic knowledge from Vietnam National University of Agriculture (VNUA) to a real-world cloud computing environment.
 
 In this internship, I participated in the **Workforce Bootcamp - First Cloud AI Journey** program, successfully completing theoretical and hands-on lab challenges (including EC2, S3, IAM, VPC, RDS, Lambda, CloudWatch, Auto Scaling, CloudFormation, Docker/ECS, and CI/CD). Through these activities, I consolidated my ability to configure secure environments, manage cloud resources, and improved my teamwork and technical reporting skills.
 
