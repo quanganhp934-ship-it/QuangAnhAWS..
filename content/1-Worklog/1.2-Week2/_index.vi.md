@@ -17,10 +17,10 @@ pre: " <b> 1.2. </b> "
 | --- | --- | --- | --- | --- |
 | 2 | Tìm hiểu tổng quan kiến trúc AWS và lập tài khoản thực hành | 15/08/2026 | 15/08/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 3 | Thực hiện các bài học về AWS, Cloud | 16/08/2026 | 18/08/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 4 | Tìm hiểu các lý thuyết liên quan đến Cloud Computing | 18/08/2026 | 20/08/2026 | |
+| 4 | Tìm hiểu LinkedIn và xây dựng thương hiệu cá nhân | 18/08/2026 | 20/08/2026 | |
 
 ### Kết quả đạt được tuần 2:
 * Hiểu tổng quan kiến trúc AWS và tạo tài khoản thực hành thành công.
 * Tiếp thu lý thuyết cơ bản về Cloud và hoàn thành các bài học nhập môn.
 * Hiểu hơn về các mô hình hosting và server phổ biến.
-* Xây dựng  LinkedIn cho riêng mình,tạo dựng thương hiệu cá nhân.
+* Xây dựng  LinkedIn cho riêng mình, tạo dựng thương hiệu cá nhân.
