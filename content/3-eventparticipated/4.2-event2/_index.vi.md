@@ -32,6 +32,7 @@ aliases:
 
 #### 1. Tổng quan vấn đề thực tế
 Đằng sau những tựa game phục vụ hàng triệu người chơi là một hệ thống hạ tầng phức tạp. Vậy Riot Games đã giải quyết những bài toán về vận hành và chuyển đổi lên Cloud như thế nào?
+
 ---
 
 ### Những gì học được
@@ -43,16 +44,6 @@ Hiểu được để vận hành được những tựa game phục vụ hàng 
 *   Hiểu khái niệm **Cloud Architecture**.
 *   Cách vận hành hạ tầng máy chủ game.
 *   Nắm được quy trình chuyển đổi lên Cloud và những thách thức kỹ thuật trong quá trình triển khai.
-
-#### 3. Kinh nghiệm thực tế
-Workshop cho thấy AI đang trở thành xu hướng quan trọng trong lĩnh vực Cloud Computing. Người làm Cloud cần liên tục cập nhật kiến thức mới để thích nghi với sự phát triển của AI và các công nghệ tự động hóa.
-
----
-
-### Ứng dụng vào công việc
-*   **Áp dụng cho dự án hiện tại**: Có thể nghiên cứu áp dụng AI để hỗ trợ giám sát hệ thống, phân tích log, theo dõi hiệu năng và phát hiện sự cố trong các dự án triển khai trên nền tảng AWS.
-*   **Công nghệ muốn thử nghiệm tiếp theo**: Tìm hiểu thêm về các giải pháp AI tích hợp với AWS nhằm xây dựng hệ thống Cloud thông minh, tự động hóa quy trình quản trị và tối ưu chi phí vận hành.
-*   **Cải thiện quy trình làm việc**: Tận dụng AI để hỗ trợ theo dõi hệ thống, phân tích dữ liệu vận hành và đề xuất phương án xử lý nhanh hơn, từ đó giảm thời gian xử lý sự cố và nâng cao chất lượng dịch vụ.
 
 ---
 
