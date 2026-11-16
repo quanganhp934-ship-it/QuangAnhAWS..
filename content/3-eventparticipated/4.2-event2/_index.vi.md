@@ -62,7 +62,7 @@ Hiểu được để vận hành được những tựa game phục vụ hàng 
 
 ### Một số hình ảnh khi tham gia sự kiện
 
-![Slide về Riotgames.](/images/4-eventparticipated/event2/slide.jpg?v=2)
+![Slide về Riotgames.](/images/4-eventparticipated/event2/silde.jpg?v=2)
 
 ![Toàn cảnh diễn giả chia sẻ tại hội trường sự kiện FCAJ Community Day](/images/4-eventparticipated/event2/eventhall.jpg?v=2)
 
