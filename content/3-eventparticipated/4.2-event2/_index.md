@@ -57,7 +57,7 @@ To operate games that serve millions of users simultaneously, Riot has had to im
 
 ### Event Impressions & Photos
 
-![CloudThinker presentation slide](/images/4-eventparticipated/event2/slide.jpg?v=2)
+![Riot presentation slide](/images/4-eventparticipated/event2/silde.jpg?v=2)
 
 ![Speaker presentation at FCAJ Community Day](/images/4-eventparticipated/event2/eventhall.jpg?v=2)
 
