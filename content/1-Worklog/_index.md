@@ -11,7 +11,7 @@ Below is my detailed worklog across the 12 weeks of the First Cloud AI Journey i
 
 **Week 1:** [Looking for an internship place](1.1-week1/)
 
-**Week 2:** [Overview of AWS architecture and create a practice account](1.2-week2/)
+**Week 2:** [Overview of AWS architecture, LinkedIn and create a practice account](1.2-week2/)
 
 **Week 3:** [Take a deep dive into API standards in backend development.](1.3-week3/)
 
