@@ -11,7 +11,7 @@ Dưới đây là nhật ký công việc chi tiết của tôi qua 12 tuần th
 
 **Tuần 1:** [Tìm kiếm nơi thực tập](1.1-week1/)
 
-**Tuần 2:** [Tìm hiểu tổng quan kiến trúc AWS và lập tài khoản thực hành](1.2-week2/)
+**Tuần 2:** [Tìm hiểu tổng quan kiến trúc AWS, LinkedIn và lập tài khoản thực hành](1.2-week2/)
 
 **Tuần 3:** [Tìm hiểu sâu về các chuẩn API trong Backend.](1.3-week3/)
 
