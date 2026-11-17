@@ -27,7 +27,7 @@ Dưới đây là nhật ký công việc chi tiết của tôi qua 12 tuần th
 
 **Tuần 9:** [Tìm hiểu AWS CloudFormation và Infrastructure as Code (IaC)](1.9-week9/)
 
-**Tuần 10:** [Tìm hiểu AWS ECS và Docker cơ bản](1.10-week10/)
+**Tuần 10:** [Hành trình lên mây của Riot Games](1.10-week10/)
 
 **Tuần 11:** [Tìm hiểu AWS DevOps cơ bản và quy trình CI/CD](1.11-week11/)
 
