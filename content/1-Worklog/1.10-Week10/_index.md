@@ -1,6 +1,6 @@
 ---
 title: "Week 10 Worklog"
-date: 2026-06-28
+date: 2026-11-14
 weight: 10
 chapter: false
 pre: " <b> 1.10. </b> "
@@ -15,8 +15,8 @@ pre: " <b> 1.10. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 2 | Learn about AWS ECS and basic Docker commands | 28/06/2026 | 30/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | Research Container and Container Orchestration concepts | 30/06/2026 | 01/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 2 | Learn about AWS ECS and basic Docker commands | 14/11/2026 | 16/11/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 3 | Research Container and Container Orchestration concepts | 16/11/2026 | 18/11/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 4 | Write Dockerfiles and build custom Docker Images | 02/07/2026 | 03/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 5 | Deploy and verify containers running inside AWS ECS clusters | 03/07/2026 | 03/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
