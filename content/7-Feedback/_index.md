@@ -19,10 +19,8 @@ The mentors are highly experienced and enthusiastic. Whenever I faced issues con
 **3. Relevance of Work to Academic Major**  
 As a **Cybersecurity** student at HUTECH, I found the practical exercises extremely relevant. Configuring VPC Isolation, Public/Private Subnets, establishing Security Groups, Network ACLs, and applying the Principle of Least Privilege via IAM policies helped me deeply understand cloud infrastructure security.
 
-**4. Learning & Skill Development Opportunities**  
-The bootcamp gave me great exposure to modern cloud components like Serverless (Lambda, API Gateway), Containers (Docker, ECS), and Infrastructure as Code (Terraform, CloudFormation). Beyond technical skills, I improved my technical reporting and time management.
 
-**5. Culture & Team Spirit**  
+**4. Culture & Team Spirit**  
 The knowledge-sharing culture within the AWS Study Group community is vibrant. Everyone is open, supportive, and active in helping peers debug issues in complex lab assignments.
 
 ---
