@@ -19,10 +19,8 @@ Chương trình được tổ chức rất chuyên nghiệp và bài bản. Hệ
 **3. Sự phù hợp với chuyên ngành học**  
 Là sinh viên chuyên ngành **Mạng máy tính và truyền thông dữ liệu** của Học Viện Nông Nghiệp Việt Nam, tôi thấy các nội dung thực hành rất sát với thực tế ngành. Việc tự tay cấu hình VPC Isolation, Public/Private Subnets, thiết lập Security Groups, Network ACLs và kiểm soát quyền hạn tối thiểu (Least Privilege) với IAM Policy giúp tôi hiểu sâu sắc cách bảo mật hạ tầng đám mây.
 
-**4. Cơ hội học hỏi & Phát triển kỹ năng**  
-Chương trình là cơ hội lớn để tôi tiếp cận với các công nghệ đám mây hiện đại như Serverless (Lambda, API Gateway), Container (Docker, ECS) và hạ tầng dưới dạng mã (Terraform, CloudFormation). Ngoài kỹ năng chuyên môn, tôi còn cải thiện kỹ năng viết báo cáo kỹ thuật và quản lý thời gian.
 
-**5. Văn hóa & Tinh thần đồng đội**  
+**4. Văn hóa & Tinh thần đồng đội**  
 Văn hóa chia sẻ kiến thức (knowledge sharing) tại AWS Study Group hoạt động rất sôi nổi. Mọi người đều cởi mở, không ngại đặt câu hỏi và tích cực giúp đỡ lẫn nhau vượt qua các bài lab khó.
 
 ---
@@ -40,5 +38,5 @@ Văn hóa chia sẻ kiến thức (knowledge sharing) tại AWS Study Group ho�
 
 ### Đề xuất & Mong muốn
 
-*   **Đề xuất**: Ban tổ chức có thể thiết kế thêm các buổi chia sẻ chuyên sâu (Deep Dive) về các sự cố bảo mật thực tế trên cloud để sinh viên ngành An ninh mạng có thêm góc nhìn thực tiễn.
+*   **Đề xuất**: Ban tổ chức có thể thiết kế thêm các buổi chia sẻ chuyên sâu (Deep Dive) về các sự cố bảo mật thực tế trên cloud để sinh viên ngành Mạng máy tính có thêm góc nhìn thực tiễn.
 *   **Mong muốn**: Mong muốn được tiếp tục đồng hành và tham gia các hoạt động cộng đồng của AWS Study Group trong tương lai để tiếp tục cập nhật công nghệ mới.
