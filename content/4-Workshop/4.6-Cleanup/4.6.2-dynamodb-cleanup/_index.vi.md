@@ -3,10 +3,10 @@ title: "Xóa Bảng DynamoDB"
 date: 2026-11-03
 weight: 2
 chapter: false
-pre: " <b> 5.6.2. </b> "
+pre: " <b> 4.6.2. </b> "
 ---
 
-# 5.6.2. Dọn dẹp Amazon DynamoDB
+# 4.6.2. Dọn dẹp Amazon DynamoDB
 
 1. Truy cập dịch vụ **Amazon DynamoDB** -> chọn **Tables**.
 2. Chọn tất cả các bảng đã tạo trong bài thực hành (`MatchmakingQueue` và `ActiveMatches`), nhấn nút **Delete** và xác nhận xóa toàn bộ bảng.
