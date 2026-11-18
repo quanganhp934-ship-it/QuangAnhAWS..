@@ -10,10 +10,7 @@ pre: " <b> 4. </b> "
 
 #### Tổng quan bài Thực hành (Workshop)
 
-Nội dung phần Workshop được cấu trúc thành các chương chính từ **5.1** đến **5.6** và các bài thực hành chi tiết **5.x.y** dưới đây:
-
-> [!NOTE]
-> * **Link Source Code**: [https://github.com/Nothingtoread/fighting-game/tree/main](https://github.com/Nothingtoread/fighting-game/tree/main)
+Nội dung phần Workshop được cấu trúc thành các chương chính từ **4.1** đến **4.6** và các bài thực hành chi tiết **4.x.y** dưới đây:
 
 ---
 
