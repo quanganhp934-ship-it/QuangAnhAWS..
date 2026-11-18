@@ -11,11 +11,11 @@ pre: " <b> 4.3.1. </b> "
 1. Navigate to **AWS Lambda** and click **Create a function**.
 2. Select **Author from scratch**, set Function Name to `FightingGameMatchmaker`, and select the Node.js Runtime.
 
-![Create Lambda Function](/images/4-Workshop/img_A/image31.png)
+![Create Lambda Function](/images/5-Workshop/img_A/image31.png)
 
 3. Under **Configuration** -> **Permissions** -> click the IAM Role Name link to open the IAM Console.
 
-![Configure Lambda Role](/images/4-Workshop/img_A/image33.png)
+![Configure Lambda Role](/images/5-Workshop/img_A/image33.png)
 
 4. Click **Add permissions** -> **Create inline policy**.
 5. Paste the JSON policy granting DynamoDB read/write access to `MatchmakingQueue` and `ActiveMatches`:
@@ -43,7 +43,7 @@ pre: " <b> 4.3.1. </b> "
 
 6. Name the policy and click **Create policy**. Verify that the policy is attached.
 
-![Policy Attached to Lambda Role](/images/4-Workshop/img_A/image40.png)
+![Policy Attached to Lambda Role](/images/5-Workshop/img_A/image40.png)
 
 7. Back in the Lambda Console, navigate to **Configuration** -> **Environment variables** -> **Edit** and add:
    * `QUEUE_TABLE`: `MatchmakingQueue`
