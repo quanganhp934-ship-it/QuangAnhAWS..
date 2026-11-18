@@ -3,10 +3,10 @@ title: "Kích hoạt DynamoDB Streams"
 date: 2026-11-03
 weight: 1
 chapter: false
-pre: " <b> 5.5.1. </b> "
+pre: " <b> 4.5.1. </b> "
 ---
 
-# 5.5.1. Kích hoạt DynamoDB Streams
+# 4.5.1. Kích hoạt DynamoDB Streams
 
 1. Truy cập dịch vụ **Amazon DynamoDB** -> **Tables** -> chọn bảng `ActiveMatches`.
 2. Chọn tab **Exports and streams** -> chọn **DynamoDB stream details**.
