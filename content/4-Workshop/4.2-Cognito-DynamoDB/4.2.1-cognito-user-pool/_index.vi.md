@@ -3,10 +3,10 @@ title: "Khởi tạo Cognito User Pool"
 date: 2026-11-03
 weight: 1
 chapter: false
-pre: " <b> 5.2.1. </b> "
+pre: " <b> 4.2.1. </b> "
 ---
 
-# 5.2.1. Khởi tạo Amazon Cognito User Pool
+# 4.2.1. Khởi tạo Amazon Cognito User Pool
 
 1. Tại thanh tìm kiếm trên AWS Console, gõ **Cognito** và chọn **Amazon Cognito**.
 
