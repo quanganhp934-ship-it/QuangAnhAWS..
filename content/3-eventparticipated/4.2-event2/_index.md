@@ -39,8 +39,8 @@ Behind games that serve millions of players lies a complex infrastructure. So, h
 ### Key Learnings
 
 #### 1. Mindset & Methodology
-To operate games that serve millions of users simultaneously, Riot has had to implement an incredibly complex system.
-
+* To operate games that serve millions of users simultaneously, Riot has had to implement an incredibly complex system.
+* How Riot Games designs its cloud architecture to meet system requirements.
 #### 2. Technical Knowledge
 *   Understood the core concepts of **Cloud Architecture**.
 *   How to operate game server infrastructure.
