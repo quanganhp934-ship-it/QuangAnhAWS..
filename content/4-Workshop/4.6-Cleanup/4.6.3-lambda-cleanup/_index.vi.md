@@ -3,10 +3,10 @@ title: "Xóa AWS Lambda Functions"
 date: 2026-11-03
 weight: 3
 chapter: false
-pre: " <b> 5.6.3. </b> "
+pre: " <b> 4.6.3. </b> "
 ---
 
-# 5.6.3. Dọn dẹp AWS Lambda Functions
+# 4.6.3. Dọn dẹp AWS Lambda Functions
 
 1. Truy cập dịch vụ **AWS Lambda** -> chọn **Functions**.
 2. Chọn tất cả các hàm Lambda đã khởi tạo (`FightingGameMatchmaker` và `MatchAnalyticLambda`), nhấn **Actions** -> chọn **Delete** và xác nhận xóa.
