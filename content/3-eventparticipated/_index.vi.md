@@ -1,14 +1,14 @@
 ---
 title: "Các events đã tham gia"
 date: 2026-08-15
-weight: 4
+weight: 3
 chapter: false
-pre: " <b> 4. </b> "
+pre: " <b> 3. </b> "
 ---
 
 Trong quá trình thực tập, em đã tham gia các sự kiện với mỗi sự kiện là một trải nghiệm đáng nhớ với những kiến thức mới, hay và bổ ích, cùng với đó là những khoảnh khắc rất tuyệt vời.
 
-### [Event 1](4.1-event1/)
+### [Event 1](3.1-event1/)
 &emsp;**Tên sự kiện:** FCAJ Community Day
 
 &emsp;**Thời gian:** 15-08-2026
@@ -19,7 +19,7 @@ Trong quá trình thực tập, em đã tham gia các sự kiện với mỗi s�
 
 &emsp;**Vai trò trong sự kiện:** Người tham dự 
 
-### [Event 2](4.2-event2/)
+### [Event 2](3.2-event2/)
 &emsp;**Tên sự kiện:** FCAJ Community Day
 
 &emsp;**Thời gian:** 14-11-2026
