@@ -3,10 +3,10 @@ title: "Xóa Amazon Cognito"
 date: 2026-11-03
 weight: 1
 chapter: false
-pre: " <b> 5.6.1. </b> "
+pre: " <b> 4.6.1. </b> "
 ---
 
-# 5.6.1. Dọn dẹp Amazon Cognito
+# 4.6.1. Dọn dẹp Amazon Cognito
 
 1. Truy cập dịch vụ **Amazon Cognito** -> chọn **User pools**.
 2. Chọn **User pool** đã tạo (Ví dụ: `ap-southeast-1_phYoaMUPC`), chọn **Delete** và xác nhận xóa.
