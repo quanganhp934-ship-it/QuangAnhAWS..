@@ -13,17 +13,17 @@ Dưới đây là nhật ký công việc chi tiết của tôi qua 12 tuần th
 
 **Tuần 2:** [Tìm hiểu tổng quan kiến trúc AWS, LinkedIn và lập tài khoản thực hành](1.2-week2/)
 
-**Tuần 3:** [Tìm hiểu sâu về các chuẩn API trong Backend.](1.3-week3/)
+**Tuần 3:** [Tìm hiểu sâu về các chuẩn API trong Backend](1.3-week3/)
 
 **Tuần 4:** [Tìm hiểu Cloud, AI, AI Agent và Agentic Operations](1.4-week4/)
 
-**Tuần 5:** [Keynote, practice và kết nối cùng cộng đồng.](1.5-week5/)
+**Tuần 5:** [Keynote, practice và kết nối cùng cộng đồng](1.5-week5/)
 
 **Tuần 6:** [Luyện tập và thử nghiệm với Cloud & AI Agent](1.6-week6/)
 
-**Tuần 7:** [Trao đổi, hỗ trợ đưa kiến thức Cloud / AI vào project thực tế.](1.7-week7/)
+**Tuần 7:** [Trao đổi, hỗ trợ đưa kiến thức Cloud / AI vào project thực tế](1.7-week7/)
 
-**Tuần 8:** [Tìm hiểu Elastic Load Balancer (ELB) và Auto Scaling](1.8-week8/)
+**Tuần 8:** [Tìm hiểu cách Apache Iceberg mở rộng khả năng quản lý dữ liệu](1.8-week8/)
 
 **Tuần 9:** [Tìm hiểu AWS CloudFormation và Infrastructure as Code (IaC)](1.9-week9/)
 
