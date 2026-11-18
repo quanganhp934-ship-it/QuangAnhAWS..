@@ -3,15 +3,15 @@ title: "Chuẩn bị môi trường & Chọn Region"
 date: 2026-11-03
 weight: 1
 chapter: false
-pre: " <b> 5.1. </b> "
+pre: " <b> 4.1. </b> "
 aliases:
-  - /5-workshop/5.1-serverless-game-backend/
-  - /5-workshop/5.1-workshop-overview/
-  - /5-workshop/5.1-serverless-game-backend/5.1.1-prerequiste/
-  - /5-workshop/5.1-Serverless-Game-Backend/5.1.1-prerequiste/
+  - /4-workshop/4.1-serverless-game-backend/
+  - /4-workshop/4.1-workshop-overview/
+  - /4-workshop/4.1-serverless-game-backend/4.1.1-prerequiste/
+  - /4-workshop/4.1-Serverless-Game-Backend/4.1.1-prerequiste/
 ---
 
-# 5.1. Chuẩn bị Môi trường & Thiết lập Region
+# 4.1. Chuẩn bị Môi trường & Thiết lập Region
 
 ### Yêu cầu tiên quyết:
 1.  **Tài khoản AWS (AWS Account)** có quyền quản trị (Administrator Access) hoặc IAM User có đầy đủ quyền thao tác trên Cognito, DynamoDB, Lambda, API Gateway, EC2, S3, CodeDeploy và IAM.
