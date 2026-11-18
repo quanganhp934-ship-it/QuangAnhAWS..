@@ -3,10 +3,10 @@ title: "Provisioning Cognito Identity Pool"
 date: 2026-11-03
 weight: 2
 chapter: false
-pre: " <b> 5.2.2. </b> "
+pre: " <b> 4.2.2. </b> "
 ---
 
-# 5.2.2. Provisioning Amazon Cognito Identity Pool
+# 4.2.2. Provisioning Amazon Cognito Identity Pool
 
 1. Return to the main Cognito console, navigate to **Identity pools**, and click **Create identity pool**.
 
