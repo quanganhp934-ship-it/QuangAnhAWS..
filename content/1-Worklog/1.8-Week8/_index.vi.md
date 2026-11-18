@@ -20,4 +20,4 @@ pre: " <b> 1.8. </b> "
 
 ### Kết quả đạt được tuần 8:
 * Hiểu rõ hơn về các rủi ro bảo mật từ đó xây dựng được những hệ thống Cloud & AI an toàn hơn.
-* Thực hành kiếm soát dữ liệu.
+* Kiếm soát dữ liệu một cách hiệu quả hơn.
