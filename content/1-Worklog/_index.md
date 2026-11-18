@@ -31,4 +31,4 @@ Below is my detailed worklog across the 12 weeks of the First Cloud AI Journey i
 
 **Week 11:** [Learn about AWS DevOps basics and CI/CD process](1.11-week11/)
 
-**Week 12:** [Implement a comprehensive project on AWS and evaluation](1.12-week12/)
+
