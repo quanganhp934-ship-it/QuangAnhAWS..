@@ -27,7 +27,7 @@ Below is my detailed worklog across the 12 weeks of the First Cloud AI Journey i
 
 **Week 9:** [Learn about AWS CloudFormation and Infrastructure as Code (IaC)](1.9-week9/)
 
-**Week 10:** [Riot Games’ Journey to the Cloud](1.10-week10/)
+**Week 10:** [Teamwork, reinforcing knowledge](1.10-week10/)
 
 **Week 11:** [Learn about AWS DevOps basics and CI/CD process](1.11-week11/)
 
