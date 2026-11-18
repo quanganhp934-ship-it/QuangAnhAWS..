@@ -3,10 +3,10 @@ title: "Sample EC2 Server & Baking AMI"
 date: 2026-11-03
 weight: 1
 chapter: false
-pre: " <b> 5.4.1. </b> "
+pre: " <b> 4.4.1. </b> "
 ---
 
-# 5.4.1. Sample EC2 Game Server & Baking AMI
+# 4.4.1. Sample EC2 Game Server & Baking AMI
 
 1. Navigate to **Amazon EC2** and click **Launch instance**.
 2. Configure settings:
