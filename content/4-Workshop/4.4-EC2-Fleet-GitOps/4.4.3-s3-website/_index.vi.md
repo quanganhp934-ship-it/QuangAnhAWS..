@@ -12,4 +12,4 @@ pre: " <b> 4.4.3. </b> "
 2. Nhập tên Bucket (Ví dụ: `fighting-game-assets-singapore`).
 3. Bật tính năng **Static website hosting** và cấu hình **Bucket policy** (phân quyền public read cho client asset) cũng như **CORS Policy** để giao diện web truy cập API không bị chặn.
 
-![Cấu hình S3 Static Website Hosting & CORS](/images/4-Workshop/img_B/image6.png)
+![Cấu hình S3 Static Website Hosting & CORS](/images/5-Workshop/img_B/image6.png)
