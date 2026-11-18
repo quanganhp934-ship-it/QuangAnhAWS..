@@ -1,9 +1,9 @@
 ---
 title: "Tự đánh giá"
 date: 2026-11-03
-weight: 6
+weight: 5
 chapter: false
-pre: " <b> 6. </b> "
+pre: " <b> 5. </b> "
 ---
 
 Trong suốt thời gian thực tập tại **Công ty TNHH Amazon Web Services Việt Nam (AWS Việt Nam)** từ ngày **08/08/2026** đến ngày **14/11/2026**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng các kiến thức chuyên ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu từ trường Học Viện Nông Nghiệp Việt Nam(VNUA) vào môi trường thực tế.
