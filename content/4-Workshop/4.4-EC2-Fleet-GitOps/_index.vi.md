@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.4. </b> "
 aliases:
   - /4-workshop/4.1-serverless-game-backend/4.1.4-ec2-fleet-gitops/
-  - /4-workshop/5.1-Serverless-Game-Backend/4.1.4-ec2-fleet-gitops/
+  - /4-workshop/4.1-Serverless-Game-Backend/4.1.4-ec2-fleet-gitops/
 ---
 
 # 4.4. Cấu hình EC2 Spot Fleet, Launch Template & GitOps CodeDeploy
