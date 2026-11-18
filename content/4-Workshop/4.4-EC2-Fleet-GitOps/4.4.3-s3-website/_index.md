@@ -12,4 +12,4 @@ pre: " <b> 4.4.3. </b> "
 2. Set bucket name (e.g., `fighting-game-assets-singapore`).
 3. Enable **Static website hosting** and configure **Bucket Policy** (public read for client assets) and **CORS Policy** to permit browser API requests.
 
-![Configure S3 Static Website Hosting & CORS](/images/4-Workshop/img_B/image6.png)
+![Configure S3 Static Website Hosting & CORS](/images/5-Workshop/img_B/image6.png)
