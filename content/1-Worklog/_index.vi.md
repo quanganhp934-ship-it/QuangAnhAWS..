@@ -31,4 +31,4 @@ Dưới đây là nhật ký công việc chi tiết của tôi qua 12 tuần th
 
 **Tuần 11:** [Tìm hiểu AWS DevOps cơ bản và quy trình CI/CD](1.11-week11/)
 
-**Tuần 12:** [Thực hiện dự án tổng hợp trên AWS và tổng kết đánh giá](1.12-week12/)
+
