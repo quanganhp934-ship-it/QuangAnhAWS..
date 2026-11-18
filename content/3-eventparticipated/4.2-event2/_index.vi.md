@@ -3,7 +3,7 @@ title: "Event 2"
 date: 2026-11-14
 weight: 2
 chapter: false
-pre: " <b> 4.2. </b> "
+pre: " <b> 3.2. </b> "
 aliases:
   - /4-eventparticipated/4.2-Event2/
   - /4-eventparticipated/4.2-event2/
