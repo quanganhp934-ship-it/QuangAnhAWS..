@@ -3,10 +3,10 @@ title: "Hàm MatchAnalytic Lambda"
 date: 2026-11-03
 weight: 2
 chapter: false
-pre: " <b> 5.5.2. </b> "
+pre: " <b> 4.5.2. </b> "
 ---
 
-# 5.5.2. Tạo & Kết nối MatchAnalytic Lambda
+# 4.5.2. Tạo & Kết nối MatchAnalytic Lambda
 
 1. Truy cập **AWS IAM** -> **Roles** -> chọn **Create role**.
 2. Chọn Trusted Entity: **AWS service** -> **Lambda**.
@@ -36,7 +36,7 @@ pre: " <b> 5.5.2. </b> "
 7. Nhấn **Add trigger**, chọn **DynamoDB**.
 8. Chọn DynamoDB table: `ActiveMatches`, Batch size: `100`, Starting position: **Latest**. Bấm **Add**.
 
-![Tạo MatchAnalytic Lambda & DynamoDB Stream Trigger](/images/5-Workshop/img_B/image8.png)
+![Tạo MatchAnalytic Lambda & DynamoDB Stream Trigger](/images/4-Workshop/img_B/image8.png)
 
 9. Dán mã nguồn xử lý phân tích log và kết quả trận đấu vào tab **Code** và chọn **Deploy**.
 10. Khi một trận đấu kết thúc và kết quả được ghi vào DynamoDB, DynamoDB Stream tự động kích hoạt `MatchAnalyticLambda` thu thập và đẩy log sang Data Lake/Analytics Store mà không ảnh hưởng tới độ trễ ghép trận RTT.
