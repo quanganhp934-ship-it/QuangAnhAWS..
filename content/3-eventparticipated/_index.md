@@ -1,14 +1,14 @@
 ---
 title: "Events Participated"
 date: 2026-08-15
-weight: 4
+weight: 3
 chapter: false
-pre: " <b> 4. </b> "
+pre: " <b> 3. </b> "
 ---
 
 During my internship, I participated in events that provided valuable insights into modern cloud solutions and artificial intelligence:
 
-### [Event 1](4.1-event1/)
+### [Event 1](3.1-event1/)
 &emsp;**Event Title:** FCAJ Community Day
 
 &emsp;**Date:** August 15, 2026
@@ -19,7 +19,7 @@ During my internship, I participated in events that provided valuable insights i
 
 &emsp;**Role:** Participant
 
-### [Event 2](4.2-event2/)
+### [Event 2](3.2-event2/)
 &emsp;**Event Title:** FCAJ Community Day
 
 &emsp;**Date:** November 14, 2026
