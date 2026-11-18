@@ -36,7 +36,7 @@ pre: " <b> 4.5.2. </b> "
 7. Click **Add trigger**, select **DynamoDB**.
 8. Select table `ActiveMatches`, Batch size: `100`, Starting position: **Latest**. Click **Add**.
 
-![Create MatchAnalytic Lambda & DynamoDB Stream Trigger](/images/4-Workshop/img_B/image8.png)
+![Create MatchAnalytic Lambda & DynamoDB Stream Trigger](/images/5-Workshop/img_B/image8.png)
 
 9. Paste the post-match log parser code under **Code** and click **Deploy**.
 10. When a game match ends and updates DynamoDB, DynamoDB Streams trigger `MatchAnalyticLambda` to process and stream telemetry data directly to S3/analytics stores without incurring RTT latency overhead on active players.
