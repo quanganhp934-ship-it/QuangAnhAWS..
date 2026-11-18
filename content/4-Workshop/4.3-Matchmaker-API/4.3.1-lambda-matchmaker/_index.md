@@ -49,11 +49,11 @@ pre: " <b> 4.3.1. </b> "
    * `QUEUE_TABLE`: `MatchmakingQueue`
    * `MATCH_TABLE`: `ActiveMatches`
 
-![Set Environment Variables](/images/4-Workshop/img_A/image41.png)
+![Set Environment Variables](/images/5-Workshop/img_A/image41.png)
 
 8. Navigate to **Code**, paste the matchmaking logic handler, and click **Deploy**.
 9. Test the function using sample payloads for Player 1 and Player 2. Verify that `200 OK` is returned and player queue entries are processed.
 
-![Player 1 Test Success](/images/4-Workshop/img_A/image46.png)
+![Player 1 Test Success](/images/5-Workshop/img_A/image46.png)
 
-![Player 2 Test Success](/images/4-Workshop/img_A/image50.png)
+![Player 2 Test Success](/images/5-Workshop/img_A/image50.png)
