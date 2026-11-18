@@ -19,7 +19,7 @@ Below is my detailed worklog across the 12 weeks of the First Cloud AI Journey i
 
 **Week 5:** [Keynote, practice, and connect with the community.](1.5-week5/)
 
-**Week 6:** [Learn about AWS Lambda and Serverless](1.6-week6/)
+**Week 6:** [Practicing and experimenting with Cloud & AI Agents](1.6-week6/)
 
 **Week 7:** [Provide guidance and support for integrating Cloud/AI knowledge into real-world projects.](1.7-week7/)
 
