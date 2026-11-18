@@ -38,8 +38,8 @@ aliases:
 ### Những gì học được
 
 #### 1. Tư duy và phương pháp
-Hiểu được để vận hành được những tựa game phục vụ hàng triệu người dùng cùng lúc Riot đã phải trang bị 1 hệ thống vô cùng phức tạp. 
-
+* Hiểu được để vận hành được những tựa game phục vụ hàng triệu người dùng cùng lúc Riot đã phải trang bị 1 hệ thống vô cùng phức tạp. 
+* Cách Riot Games thiết kế kiến trúc Cloud để đáp ứng nhu cầu của hệ thống.
 #### 2. Kiến thức kỹ thuật
 *   Hiểu khái niệm **Cloud Architecture**.
 *   Cách vận hành hạ tầng máy chủ game.
