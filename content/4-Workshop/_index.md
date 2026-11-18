@@ -13,7 +13,6 @@ pre: " <b> 4. </b> "
 The Workshop modules are structured under main chapters **5.1** through **5.6** and sub-modules **5.x.y** below:
 
 > [!NOTE]
-> * **Live Web Demo Link**: [http://fighting-game-assets-508768431157.s3-website-ap-southeast-1.amazonaws.com/](http://fighting-game-assets-508768431157.s3-website-ap-southeast-1.amazonaws.com/)
 > * **Source Code Repository**: [https://github.com/Nothingtoread/fighting-game/tree/main](https://github.com/Nothingtoread/fighting-game/tree/main)
 
 ---
