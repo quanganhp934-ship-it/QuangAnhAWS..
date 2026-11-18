@@ -3,10 +3,10 @@ title: "Cleaning up CloudFront & AWS WAF"
 date: 2026-11-03
 weight: 5
 chapter: false
-pre: " <b> 5.6.5. </b> "
+pre: " <b> 4.6.5. </b> "
 ---
 
-# 5.6.5. Cleaning up CloudFront & AWS WAF
+# 4.6.5. Cleaning up CloudFront & AWS WAF
 
 ### 1. Clean up Amazon CloudFront Distribution
 
