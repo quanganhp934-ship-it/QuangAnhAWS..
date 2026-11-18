@@ -25,7 +25,7 @@ Dưới đây là nhật ký công việc chi tiết của tôi qua 12 tuần th
 
 **Tuần 8:** [Tìm hiểu cách Apache Iceberg mở rộng khả năng quản lý dữ liệu](1.8-week8/)
 
-**Tuần 9:** [Tìm hiểu AWS CloudFormation và Infrastructure as Code (IaC)](1.9-week9/)
+**Tuần 9:** [	Tìm hiểu về Cloud Computing](1.9-week9/)
 
 **Tuần 10:** [Làm việc nhóm, củng cố kiến thức](1.10-week10/)
 
