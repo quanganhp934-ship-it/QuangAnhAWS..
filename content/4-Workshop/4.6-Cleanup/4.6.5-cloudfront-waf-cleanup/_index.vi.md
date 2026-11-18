@@ -3,10 +3,10 @@ title: "Xóa CloudFront & AWS WAF"
 date: 2026-11-03
 weight: 5
 chapter: false
-pre: " <b> 5.6.5. </b> "
+pre: " <b> 4.6.5. </b> "
 ---
 
-# 5.6.5. Dọn dẹp CloudFront & AWS WAF
+# 4.6.5. Dọn dẹp CloudFront & AWS WAF
 
 ### 1. Dọn dẹp Amazon CloudFront Distribution
 
