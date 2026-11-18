@@ -17,7 +17,7 @@ The program is highly structured and professional. The learning roadmap is clear
 The mentors are highly experienced and enthusiastic. Whenever I faced issues configuring secure networks or debugging CI/CD workflows, the mentors guided me through tracing system logs rather than giving immediate solutions, which helped sharpen my problem-solving mindset. The admin team also supported sandbox accounts and technical issues promptly.
 
 **3. Relevance of Work to Academic Major**  
-As a **Cybersecurity** student at HUTECH, I found the practical exercises extremely relevant. Configuring VPC Isolation, Public/Private Subnets, establishing Security Groups, Network ACLs, and applying the Principle of Least Privilege via IAM policies helped me deeply understand cloud infrastructure security.
+As a **Computer Networks and Data Communications** student at HUTECH, I found the practical exercises extremely relevant. Configuring VPC Isolation, Public/Private Subnets, establishing Security Groups, Network ACLs, and applying the Principle of Least Privilege via IAM policies helped me deeply understand cloud infrastructure security.
 
 
 **4. Culture & Team Spirit**  
