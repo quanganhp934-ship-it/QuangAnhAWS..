@@ -19,7 +19,7 @@ Dưới đây là nhật ký công việc chi tiết của tôi qua 12 tuần th
 
 **Tuần 5:** [Keynote, practice và kết nối cùng cộng đồng.](1.5-week5/)
 
-**Tuần 6:** [Tìm hiểu AWS Lambda và Serverless](1.6-week6/)
+**Tuần 6:** [Luyện tập và thử nghiệm với Cloud & AI Agent](1.6-week6/)
 
 **Tuần 7:** [Trao đổi, hỗ trợ đưa kiến thức Cloud / AI vào project thực tế.](1.7-week7/)
 
