@@ -3,16 +3,16 @@ title: "GitHub OIDC & CodeDeploy GitOps"
 date: 2026-11-03
 weight: 4
 chapter: false
-pre: " <b> 5.4.4. </b> "
+pre: " <b> 4.4.4. </b> "
 ---
 
-# 5.4.4. GitHub OIDC & AWS CodeDeploy GitOps Pipeline
+# 4.4.4. GitHub OIDC & AWS CodeDeploy GitOps Pipeline
 
 1. **Add GitHub Provider to AWS IAM (No long-lived access keys)**:
    * Navigate to **IAM** -> **Identity providers** -> **Add provider**.
    * Select **OpenID Connect**, enter Provider URL: `https://token.actions.githubusercontent.com` and Audience: `sts.amazonaws.com`.
 
-![Add GitHub OIDC Provider](/images/5-Workshop/img_B/image7.png)
+![Add GitHub OIDC Provider](/images/4-Workshop/img_B/image7.png)
 
 2. **Install AWS CodeDeploy Agent on EC2 Game Server**:
    Execute the CodeDeploy installation script on Ubuntu 24.04 LTS:
@@ -37,15 +37,15 @@ sudo systemctl start codedeploy-agent
 sudo systemctl status codedeploy-agent
 ```
 
-![CodeDeploy Agent Installation Success](/images/5-Workshop/img_B/image8.png)
+![CodeDeploy Agent Installation Success](/images/4-Workshop/img_B/image8.png)
 
 3. **Provision CodeDeploy Application & Deployment Group**:
    * Navigate to **AWS CodeDeploy** -> **Applications** -> **Create application**.
    * Application name: `FightingGameServerApp`, Compute platform: **EC2/On-premises**.
    * Create **Deployment group**, attach CodeDeploy IAM role, and map to the EC2 Spot Fleet.
 
-![Create CodeDeploy Deployment Group](/images/5-Workshop/img_B/image9.png)
+![Create CodeDeploy Deployment Group](/images/4-Workshop/img_B/image9.png)
 
 4. Pushing code to GitHub triggers GitHub Actions to execute CodeDeploy jobs, deploying new builds to the game fleet with zero downtime.
 
-![Successful CodeDeploy Job](/images/5-Workshop/img_B/image10.png)
+![Successful CodeDeploy Job](/images/4-Workshop/img_B/image10.png)
