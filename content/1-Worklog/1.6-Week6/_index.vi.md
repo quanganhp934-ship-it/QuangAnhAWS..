@@ -13,10 +13,8 @@ pre: " <b> 1.6. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | Tìm hiểu AWS Lambda và mô hình Serverless | 31/05/2026 | 02/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | Thực hành viết mã và tạo Lambda Function bằng Python | 02/06/2026 | 03/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 4 | Cấu hình kết nối Lambda với S3 (triggers) và API Gateway (endpoints) | 04/06/2026 | 05/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 5 | Kiểm tra hoạt động hệ thống và xem giám sát log bằng CloudWatch | 05/06/2026 | 05/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 2 | Lắng nghe các keynote và chia sẻ xoay quanh Cloud, AI, AI Agent và Agentic Operations từ các speaker và cộng đồng. | 19/09/2026 | 21/09/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 3 | Tham gia các phần practice, thử nghiệm với Cloud & AI Agent và chuẩn bị những kỹ năng cần thiết cho hành trình PROVE IT phía trước | 21/09/2026 | 22/09/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Kết quả đạt được tuần 6:
 * Nắm vững kiến thức Cloud & AI Agent,có thêm những kĩ năng cần thiết cho hành trình PROVE IT phía trước.
