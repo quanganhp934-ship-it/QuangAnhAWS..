@@ -23,7 +23,7 @@ Below is my detailed worklog across the 12 weeks of the First Cloud AI Journey i
 
 **Week 7:** [Provide guidance and support for integrating Cloud/AI knowledge into real-world projects.](1.7-week7/)
 
-**Week 8:** [Learn about Elastic Load Balancer (ELB) and Auto Scaling](1.8-week8/)
+**Week 8:** [Learn how Apache Iceberg expands data management capabilities.](1.8-week8/)
 
 **Week 9:** [Learn about AWS CloudFormation and Infrastructure as Code (IaC)](1.9-week9/)
 
