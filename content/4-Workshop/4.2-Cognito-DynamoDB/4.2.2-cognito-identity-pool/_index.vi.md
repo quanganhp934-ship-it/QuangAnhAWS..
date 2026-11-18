@@ -3,10 +3,10 @@ title: "Khởi tạo Cognito Identity Pool"
 date: 2026-11-03
 weight: 2
 chapter: false
-pre: " <b> 5.2.2. </b> "
+pre: " <b> 4.2.2. </b> "
 ---
 
-# 5.2.2. Khởi tạo Amazon Cognito Identity Pool
+# 4.2.2. Khởi tạo Amazon Cognito Identity Pool
 
 1. Quay lại trang Cognito chính và chuyển sang tab **Identity pools**, chọn **Create identity pool**.
 
