@@ -3,13 +3,13 @@ title: "Amazon Cognito & DynamoDB Setup"
 date: 2026-11-03
 weight: 2
 chapter: false
-pre: " <b> 5.2. </b> "
+pre: " <b> 4.2. </b> "
 aliases:
-  - /5-workshop/5.1-serverless-game-backend/5.1.2-cognito-dynamodb/
-  - /5-workshop/5.1-Serverless-Game-Backend/5.1.2-cognito-dynamodb/
+  - /4-workshop/4.1-serverless-game-backend/4.1.2-cognito-dynamodb/
+  - /4-workshop/4.1-Serverless-Game-Backend/4.1.2-cognito-dynamodb/
 ---
 
-# 5.2. Amazon Cognito & DynamoDB Setup
+# 4.2. Amazon Cognito & DynamoDB Setup
 
 In this section, we will configure an **Amazon Cognito User Pool & Identity Pool** to handle player authentication and authorize S3 asset downloads. Then, we will create two **Amazon DynamoDB** tables: one for the matchmaking queue (`MatchmakingQueue`) and another for live matches (`ActiveMatches`).
 
@@ -17,6 +17,6 @@ In this section, we will configure an **Amazon Cognito User Pool & Identity Pool
 
 ### Detailed Modules:
 
-* **[5.2.1. Provisioning Amazon Cognito User Pool](5.2.1-cognito-user-pool/)**
-* **[5.2.2. Provisioning Amazon Cognito Identity Pool](5.2.2-cognito-identity-pool/)**
-* **[5.2.3. Provisioning Amazon DynamoDB Tables](5.2.3-dynamodb-tables/)**
+* **[4.2.1. Provisioning Amazon Cognito User Pool](4.2.1-cognito-user-pool/)**
+* **[4.2.2. Provisioning Amazon Cognito Identity Pool](4.2.2-cognito-identity-pool/)**
+* **[4.2.3. Provisioning Amazon DynamoDB Tables](4.2.3-dynamodb-tables/)**
