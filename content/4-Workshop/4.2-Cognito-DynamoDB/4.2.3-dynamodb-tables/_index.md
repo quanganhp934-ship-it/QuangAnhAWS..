@@ -3,10 +3,10 @@ title: "Provisioning DynamoDB Tables"
 date: 2026-11-03
 weight: 3
 chapter: false
-pre: " <b> 5.2.3. </b> "
+pre: " <b> 4.2.3. </b> "
 ---
 
-# 5.2.3. Provisioning Amazon DynamoDB Tables
+# 4.2.3. Provisioning Amazon DynamoDB Tables
 
 We will create two DynamoDB tables to track matchmaking states:
 
