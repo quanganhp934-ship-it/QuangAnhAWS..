@@ -1,9 +1,9 @@
 ---
 title: "Self-Assessment"
 date: 2026-11-03
-weight: 6
+weight: 5
 chapter: false
-pre: " <b> 6. </b> "
+pre: " <b> 5. </b> "
 ---
 
 During my internship at **Amazon Web Services Viet Nam Company Limited (AWS Viet Nam)** from **08/08/2026** to **14/11/2026**, I had the opportunity to learn, practice, and apply my Computer Networks and Data Communications academic knowledge from Vietnam National University of Agriculture (VNUA) to a real-world cloud computing environment.
