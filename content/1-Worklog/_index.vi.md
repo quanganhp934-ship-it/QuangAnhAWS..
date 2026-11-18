@@ -29,6 +29,6 @@ Dưới đây là nhật ký công việc chi tiết của tôi qua 12 tuần th
 
 **Tuần 10:** [Làm việc nhóm, củng cố kiến thức](1.10-week10/)
 
-**Tuần 11:** [Tìm hiểu AWS DevOps cơ bản và quy trình CI/CD](1.11-week11/)
+**Tuần 11:** [Tìm hiểu những khó khăn và thách thức khi vận hành hạ tầng máy chủ](1.11-week11/)
 
 
