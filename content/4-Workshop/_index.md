@@ -10,10 +10,7 @@ pre: " <b> 4. </b> "
 
 #### Workshop Overview
 
-The Workshop modules are structured under main chapters **5.1** through **5.6** and sub-modules **5.x.y** below:
-
-> [!NOTE]
-> * **Source Code Repository**: [https://github.com/Nothingtoread/fighting-game/tree/main](https://github.com/Nothingtoread/fighting-game/tree/main)
+The Workshop modules are structured under main chapters **4.1** through **4.6** and sub-modules **4.x.y** below:
 
 ---
 
