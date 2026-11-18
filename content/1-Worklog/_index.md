@@ -25,7 +25,7 @@ Below is my detailed worklog across the 12 weeks of the First Cloud AI Journey i
 
 **Week 8:** [Learn how Apache Iceberg expands data management capabilities.](1.8-week8/)
 
-**Week 9:** [Learn about AWS CloudFormation and Infrastructure as Code (IaC)](1.9-week9/)
+**Week 9:** [Learn about Cloud Computing](1.9-week9/)
 
 **Week 10:** [Teamwork, reinforcing knowledge](1.10-week10/)
 
