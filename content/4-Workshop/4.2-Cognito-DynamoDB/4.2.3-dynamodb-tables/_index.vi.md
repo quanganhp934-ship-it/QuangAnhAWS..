@@ -3,10 +3,10 @@ title: "Khởi tạo Bảng DynamoDB"
 date: 2026-11-03
 weight: 3
 chapter: false
-pre: " <b> 5.2.3. </b> "
+pre: " <b> 4.2.3. </b> "
 ---
 
-# 5.2.3. Khởi tạo các Bảng Amazon DynamoDB
+# 4.2.3. Khởi tạo các Bảng Amazon DynamoDB
 
 Chúng ta sẽ tạo 2 bảng DynamoDB để quản lý trạng thái ghép trận:
 
