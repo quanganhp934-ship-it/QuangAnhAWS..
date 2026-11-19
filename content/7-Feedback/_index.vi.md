@@ -34,9 +34,6 @@ Văn hóa chia sẻ kiến thức (knowledge sharing) tại AWS Study Group ho�
 *   **Bạn có khuyên bạn bè tham gia chương trình này không?**  
     Chắc chắn có. Đây là chương trình thực hành đám mây bài bản nhất giúp sinh viên rút ngắn khoảng cách giữa nhà trường và doanh nghiệp.
 
----
 
-### Đề xuất & Mong muốn
 
-*   **Đề xuất**: Ban tổ chức có thể thiết kế thêm các buổi chia sẻ chuyên sâu (Deep Dive) về các sự cố bảo mật thực tế trên cloud để sinh viên ngành Mạng máy tính có thêm góc nhìn thực tiễn.
-*   **Mong muốn**: Mong muốn được tiếp tục đồng hành và tham gia các hoạt động cộng đồng của AWS Study Group trong tương lai để tiếp tục cập nhật công nghệ mới.
+
