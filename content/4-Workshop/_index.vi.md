@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4. </b> "
 ---
 
-# Hướng dẫn chi tiết Xây dựng Serverless & Event-Driven Game Backend trên AWS
+# Hướng dẫn chi tiết Xây dựng Serverless & Auto-Scaling Online Game Arena Trên AWS
 
 #### Tổng quan bài Thực hành (Workshop)
 
