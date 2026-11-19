@@ -6,13 +6,11 @@ chapter: false
 pre: " <b> 2. </b> "
 ---
 
-# Serverless & Event-Driven Game Backend trên AWS
-## Kiến trúc Backend tối ưu chi phí và mở rộng linh hoạt cho Game Live-Service
+# Serverless & Auto-Scaling Online Game Arena Trên AWS
+## Kiến trúc Điều phối Phòng đấu Thời gian thực & Tối ưu Chi phí Vận hành cho Game Trực tuyến
 
 ### 1. Tóm tắt điều hành
-Đề xuất này trình bày giải pháp kiến trúc **Backend cho Game Live-Service** chạy trên hạ tầng đám mây AWS. Thay vì duy trì một cụm máy chủ game (Game Server) hoạt động 24/7 gây lãng phí chi phí lớn trong những khoảng thời gian không có người chơi, hệ thống áp dụng nguyên tắc **chỉ bật tài nguyên tính toán (Compute) khi thực sự cần thiết**: bao gồm luồng đăng nhập, ghép trận (Matchmaking), và trong suốt thời gian diễn ra trận đấu thực tế.
-
-Toàn bộ phần **Metagame** (xác thực người chơi, phân phối tài nguyên game, ghép trận, lưu trữ kết quả) được xây dựng hoàn toàn dựa trên kiến trúc **Serverless**. Phần phiên chơi game thực tế (Live Game Session) yêu cầu máy chủ vật lý được quản lý trong fleet **EC2 Spot (kiến trúc Graviton ARM64)** và chỉ được kích hoạt (spin up) tự động theo yêu cầu của luồng ghép trận. Toàn bộ quy trình triển khai và cập nhật mã nguồn được tự động hóa qua mô hình **GitOps (CI/CD Pipeline)**, đảm bảo không có sự can thiệp thủ công lên môi trường Production.
+Trình bày giải pháp kiến trúc Hệ thống Đấu trường Game Trực tuyến (Online Game Arena) trên AWS, áp dụng nguyên tắc chỉ cấp phát máy chủ phiên đấu (EC2 Spot Graviton ARM64) khi có trận đấu thực tế, trong khi toàn bộ phần Metagame (đăng nhập, tải asset, ghép phòng đấu, thống kê) chạy hoàn toàn trên Serverless.
 
 ---
 
