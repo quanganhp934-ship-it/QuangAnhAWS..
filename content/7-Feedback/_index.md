@@ -34,9 +34,4 @@ The knowledge-sharing culture within the AWS Study Group community is vibrant. E
 *   **Would you suggest your friends join this program?**  
     Definitely yes. It is one of the best structured cloud learning bootcamps available to bridge the gap between academic theory and industry practice.
 
----
 
-### Suggestions & Expectations
-
-*   **Suggestion**: The organizers could design some deep-dive sessions on real-world cloud security breaches to provide cybersecurity students with practical security incident handling viewpoints.
-*   **Expectation**: I would love to continue engaging with the AWS Study Group community in the future to keep up with cloud technology updates.
