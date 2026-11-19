@@ -8,7 +8,7 @@ pre: " <b> 5. </b> "
 
 Trong suốt thời gian thực tập tại **Công ty TNHH Amazon Web Services Việt Nam (AWS Việt Nam)** từ ngày **08/08/2026** đến ngày **14/11/2026**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng các kiến thức chuyên ngành Mạng Máy Tính Và Truyền Thông Dữ Liệu từ trường Học Viện Nông Nghiệp Việt Nam(VNUA) vào môi trường thực tế.
 
-Trong đợt thực tập này, tôi đã tham gia chương trình **Workforce Bootcamp - First Cloud AI Journey**, hoàn thành chuỗi bài học và thực hành lab về hạ tầng đám mây AWS (như EC2, S3, IAM, VPC, RDS, Lambda, Cloud Computing, Auto Scaling, Apache Iceberg, Cloud & AI Agent). Thông qua đó, tôi đã củng cố đáng kể năng lực cấu hình an toàn hệ thống, quản lý tài nguyên đám mây và nâng cao kỹ năng làm việc nhóm cũng như viết báo cáo kỹ thuật.
+Trong đợt thực tập này, tôi đã tham gia chương trình **Workforce Bootcamp - First Cloud AI Journey**, hoàn thành chuỗi bài học và thực hành lab về hạ tầng đám mây AWS (như EC2, S3, IAM, VPC, RDS, Lambda, Cloud Computing, CloudThinker, Apache Iceberg, Cloud & AI Agent). Thông qua đó, tôi đã củng cố đáng kể năng lực cấu hình an toàn hệ thống, quản lý tài nguyên đám mây và nâng cao kỹ năng làm việc nhóm cũng như viết báo cáo kỹ thuật.
 
 Để phản ánh một cách khách quan quá trình học tập và rèn luyện của bản thân, tôi xin tự đánh giá dựa trên các tiêu chí dưới đây:
 
