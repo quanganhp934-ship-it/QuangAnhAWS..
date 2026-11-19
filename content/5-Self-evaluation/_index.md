@@ -8,7 +8,7 @@ pre: " <b> 5. </b> "
 
 During my internship at **Amazon Web Services Viet Nam Company Limited (AWS Viet Nam)** from **08/08/2026** to **14/11/2026**, I had the opportunity to learn, practice, and apply my Computer Networks and Data Communications academic knowledge from Vietnam National University of Agriculture (VNUA) to a real-world cloud computing environment.
 
-In this internship, I participated in the **Workforce Bootcamp - First Cloud AI Journey** program, successfully completing theoretical and hands-on lab challenges (including EC2, S3, IAM, VPC, RDS, Lambda, CloudWatch, Auto Scaling, CloudFormation, Docker/ECS, and CI/CD). Through these activities, I consolidated my ability to configure secure environments, manage cloud resources, and improved my teamwork and technical reporting skills.
+In this internship, I participated in the **Workforce Bootcamp - First Cloud AI Journey** program, successfully completing theoretical and hands-on lab challenges (including EC2, S3, IAM, VPC, RDS, Lambda, Cloud Computing, CloudThinker, Apache Iceberg, Cloud & AI Agent). Through these activities, I consolidated my ability to configure secure environments, manage cloud resources, and improved my teamwork and technical reporting skills.
 
 To objectively reflect on my internship progress, I evaluate myself based on the following criteria:
 
@@ -31,4 +31,4 @@ To objectively reflect on my internship progress, I evaluate myself based on the
 
 *   **Technical knowledge**: Gain more hands-on experience in advanced security best practices and complex cloud network troubleshooting.
 *   **Troubleshooting skills**: Develop more patience when debugging configurations via CloudWatch Logs to identify root causes independently before requesting support.
-*   **Communication & Presentation**: Focus on presenting technical reports and ideas in a more concise, structured, and clear manner.
+
