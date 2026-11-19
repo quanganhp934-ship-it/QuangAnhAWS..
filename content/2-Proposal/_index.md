@@ -6,13 +6,11 @@ chapter: false
 pre: " <b> 2. </b> "
 ---
 
-# Serverless & Event-Driven Game Backend on AWS
-## Cost-Optimized & Scalable Backend Architecture for Live-Service Games
+# Serverless & Auto-Scaling Online Game Arena On AWS
+## Real-Time Matchmaking Architecture & Operational Cost Optimization for Online Games
 
 ### 1. Executive Summary
-This proposal outlines an architectural solution for a **Live-Service Game Backend** running on AWS cloud infrastructure. Instead of maintaining an idle game server fleet 24/7 when no players are active, the system strictly adheres to an **on-demand compute provisioning model**: compute resources are spun up only during login, matchmaking, and live game session execution.
-
-The entire **Metagame** (authentication, asset distribution, matchmaking, and post-match storage) is built completely serverless. Live game sessions requiring dedicated hardware are hosted within an **EC2 Spot Fleet (Graviton ARM64 architecture)**, dynamically spun up on-demand by the Matchmaker. Deployment and updates are managed entirely via **GitOps (CI/CD Pipelines)**, eliminating manual code pushes to production environments.
+Present an architectural solution for an Online Game Arena system on AWS, applying a principle where server instances (EC2 Spot Graviton ARM64) are provisioned only when an actual match takes place, while the entire "metagame" layer—including login, content loading, aggregation, and statistics—runs entirely on a serverless infrastructure.
 
 ---
 
