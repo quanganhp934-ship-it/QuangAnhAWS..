@@ -29,8 +29,6 @@ Văn hóa chia sẻ kiến thức (knowledge sharing) tại AWS Study Group ho�
 
 *   **Điều bạn hài lòng nhất trong thời gian thực tập?**  
     Đó là việc được cấp tài khoản AWS thực hành trực tiếp (hands-on) trên các dịch vụ đám mây thực tế, giúp biến các kiến thức lý thuyết trừu tượng thành sản phẩm thực tế chạy được.
-*   **Điều bạn nghĩ chương trình cần cải thiện cho các khóa sau?**  
-    Nên bổ sung thêm một số buổi thảo luận nhóm nhỏ (study group check-in) định kỳ hàng tuần để các thực tập sinh có thể giao lưu trực tiếp và chia sẻ các lỗi cấu hình thường gặp.
 *   **Bạn có khuyên bạn bè tham gia chương trình này không?**  
     Chắc chắn có. Đây là chương trình thực hành đám mây bài bản nhất giúp sinh viên rút ngắn khoảng cách giữa nhà trường và doanh nghiệp.
 
