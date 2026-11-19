@@ -29,8 +29,6 @@ The knowledge-sharing culture within the AWS Study Group community is vibrant. E
 
 *   **What did you find most satisfying during your internship?**  
     Being provisioned with actual AWS sandbox accounts to perform hands-on exercises directly, which translated abstract theoretical concepts into working cloud configurations.
-*   **What do you think the program should improve for future interns?**  
-    Add brief weekly checking sessions for study groups so that interns can interact directly and share common configuration errors they faced.
 *   **Would you suggest your friends join this program?**  
     Definitely yes. It is one of the best structured cloud learning bootcamps available to bridge the gap between academic theory and industry practice.
 
