@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4. </b> "
 ---
 
-# Step-by-Step Guide: Building a Serverless & Event-Driven Game Backend on AWS
+# Step-by-Step Guide: Building a Serverless & Auto-Scaling Online Game Arena On AWS
 
 #### Workshop Overview
 
